@@ -5,10 +5,10 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.red,
         appBar: AppBar(
           title: Text(" I AM RICH "),
-          backgroundColor: Colors.blueGrey[850],
+          backgroundColor: Colors.blueGrey[950],
         ),
         body: Center(
           child: Image(
